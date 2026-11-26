@@ -15,4 +15,4 @@ The commands that are executed include :
 
 6) Merge pull request of the feature with the main and confirmed
 
-Created a feature branch
+Modified README file.
