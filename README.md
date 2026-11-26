@@ -17,4 +17,4 @@ The commands that are executed include :
 
 Modified README file.
 
-** GIT REPOSITORY LINK ** - https://github.com/shwethaanjanikumar/module-2-lab.git
+**GIT REPOSITORY LINK** - https://github.com/shwethaanjanikumar/module-2-lab.git
