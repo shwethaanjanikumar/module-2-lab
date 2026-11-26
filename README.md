@@ -11,4 +11,8 @@ The commands that are executed include :
 
 4) Push branch : git push -u origin feature
 
+5) Create Pull Request and Commit the changes from the feature branch
+
+6) Merge pull request of the feature with the main and confirmed
+
 Created a feature branch
